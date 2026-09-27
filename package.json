@@ -1,0 +1,11 @@
+{
+  "name": "drone-inspection",
+  "version": "1.0.0",
+  "private": true,
+  "description": "无人机电力巡检任务规划系统",
+  "scripts": {
+    "dev": "node scripts/dev.js",
+    "start": "node scripts/dev.js",
+    "init-db": "python scripts/init_db.py"
+  }
+}
